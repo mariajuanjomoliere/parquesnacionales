@@ -1,0 +1,14 @@
+body {background-size:cover; /*que la imagen ocupe toda la página*/
+/*añadimos transparencia a la imagen de fondo*/ 
+background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.6) 100%), url(../figuras/espana.jpg);
+}
+
+h1 {font-size: 32pt}
+h3 {color:#edaaaa;}
+h4:{color: #0b0f60;}
+p {color: white; font-size: 14pt; font-family: "Verdana", sans-serif;}
+
+table.center {
+	margin-left:auto;
+	margin-right:auto;
+	      }
